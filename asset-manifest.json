@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daf7eab4.css",
+    "main.js": "/static/js/main.d30e51d1.js",
+    "static/media/woodenHouse.jpg": "/static/media/woodenHouse.d584b7672df518924437.jpg",
+    "static/media/award.png": "/static/media/award.a4397ef08aa6fc7e3543.png",
+    "static/media/bgm.mp3": "/static/media/bgm.d734cecd677adc51d3a8.mp3",
+    "static/media/present_01.png": "/static/media/present_01.2c32265b482deb4090f4.png",
+    "static/media/bg_sky.png": "/static/media/bg_sky.1960c50233cd2a4022fa.png",
+    "static/media/bg_grass.png": "/static/media/bg_grass.7b8db2cc42fb16c28829.png",
+    "static/media/logo_TDMpink.svg": "/static/media/logo_TDMpink.b97557a3dc36e5ea1261066ef31cb854.svg",
+    "static/media/tdm.png": "/static/media/tdm.113a856607e6008c4cf1.png",
+    "static/media/stone_01.png": "/static/media/stone_01.8cf1ab431a72489b86ae.png",
+    "static/media/jump.mp3": "/static/media/jump.0a5845ba2ab9e45e8f99.mp3",
+    "static/media/background3.png": "/static/media/background3.c68810d2eb9b7d258e56.png",
+    "static/media/coin.mp3": "/static/media/coin.ce20285fea9f2ed8ca69.mp3",
+    "static/media/damage.mp3": "/static/media/damage.c6f01b8e8b379a0a1267.mp3",
+    "index.html": "/index.html",
+    "static/media/dialogueFrame_svg.svg": "/static/media/dialogueFrame_svg.931d664caf3034cfd538a611e806852d.svg",
+    "main.daf7eab4.css.map": "/static/css/main.daf7eab4.css.map",
+    "main.d30e51d1.js.map": "/static/js/main.d30e51d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf7eab4.css",
+    "static/js/main.d30e51d1.js"
+  ]
+}
