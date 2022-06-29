@@ -16,4 +16,5 @@ pixi 不會給 react 管理，無法動態拿 pixi-spine 的資料!只能放在 
 1. 在 todomonster 有創一個新的 repo 叫做 spine 負責放檔案給 demo 用
 2. "homepage": "https://todomonster.github.io/demo/",
 3. App.jsHashRouter
+4. 注意有沒有亂用href <Navbar.Brand href="/demo">
 ```
