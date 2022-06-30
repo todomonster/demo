@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.2e806c9d.css",
-    "main.js": "/demo/static/js/main.b76bd028.js",
+    "main.css": "/demo/static/css/main.b6a14190.css",
+    "main.js": "/demo/static/js/main.1f4f3a73.js",
     "static/media/woodenHouse.jpg": "/demo/static/media/woodenHouse.d584b7672df518924437.jpg",
     "static/media/background_image.png": "/demo/static/media/background_image.015f4412c7e948850f74.png",
     "static/media/award.png": "/demo/static/media/award.a4397ef08aa6fc7e3543.png",
@@ -50,11 +50,11 @@
     "static/media/damage.mp3": "/demo/static/media/damage.c6f01b8e8b379a0a1267.mp3",
     "index.html": "/demo/index.html",
     "static/media/dialogueFrame_svg.svg": "/demo/static/media/dialogueFrame_svg.931d664caf3034cfd538a611e806852d.svg",
-    "main.2e806c9d.css.map": "/demo/static/css/main.2e806c9d.css.map",
-    "main.b76bd028.js.map": "/demo/static/js/main.b76bd028.js.map"
+    "main.b6a14190.css.map": "/demo/static/css/main.b6a14190.css.map",
+    "main.1f4f3a73.js.map": "/demo/static/js/main.1f4f3a73.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e806c9d.css",
-    "static/js/main.b76bd028.js"
+    "static/css/main.b6a14190.css",
+    "static/js/main.1f4f3a73.js"
   ]
 }
