@@ -1,6 +1,9 @@
 # demo
 
-v0.8.1
+v0.8.2.1
+#加入 文章 page
+#修復 bug
+#美化
 
 部署 react 專案 供 demo
 
@@ -14,7 +17,6 @@ pixi 不會給 react 管理，無法動態拿 pixi-spine 的資料!只能放在 
 測試部署到https://todomonster.github.io/demo/
 
 注意!
-
 
 "homepage": "https://todomonster.github.io/demo/",
 App.js  HashRouter
