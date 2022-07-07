@@ -1,9 +1,8 @@
 # demo
 
-v0.8.2.1
-#加入 文章 page
-#修復 bug
-#美化
+[前端正式區已合併] v0.8.4
+- 修復canvas scroll bug
+- 美化
 
 部署 react 專案 供 demo
 
