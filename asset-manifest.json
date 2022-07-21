@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/demo/static/css/main.dd7eb306.css",
-    "main.js": "/demo/static/js/main.b5d38e66.js",
+    "main.js": "/demo/static/js/main.e9f79c9a.js",
     "static/media/background_image.png": "/demo/static/media/background_image.8a4155481c2813782da7.png",
     "static/media/woodenHouse.jpg": "/demo/static/media/woodenHouse.c7ce0b406b89262d9844.jpg",
     "static/media/missionBG.jpg": "/demo/static/media/missionBG.5964f7145a62982793d1.jpg",
     "index.html": "/demo/index.html",
     "main.dd7eb306.css.map": "/demo/static/css/main.dd7eb306.css.map",
-    "main.b5d38e66.js.map": "/demo/static/js/main.b5d38e66.js.map"
+    "main.e9f79c9a.js.map": "/demo/static/js/main.e9f79c9a.js.map"
   },
   "entrypoints": [
     "static/css/main.dd7eb306.css",
-    "static/js/main.b5d38e66.js"
+    "static/js/main.e9f79c9a.js"
   ]
 }
